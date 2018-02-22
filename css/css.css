@@ -1,0 +1,12 @@
+.background {
+    background: url("https://animexnetwork.net/img/background.gif");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+  }
+
+.animextitle {
+    font-size: 30px;
+    font-weight: bold;
+}
